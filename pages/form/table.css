@@ -1,0 +1,13 @@
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+.flex{
+    display: flex;
+    flex-direction: row;
+    
+}  
+ button{
+    margin-left:10px;
+}
